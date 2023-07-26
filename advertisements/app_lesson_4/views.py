@@ -4,7 +4,8 @@ from django.http import HttpResponse
 def index(request):
     return HttpResponse('«Домашка по 4 занятию»')
 
-#Lesson_4_
+#Lesson_4__
+
 
 
 
